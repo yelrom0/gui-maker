@@ -171,3 +171,6 @@ venv
 
 # debug log is for debugging only
 debug_log.txt
+
+# don't push models to github
+models/*
